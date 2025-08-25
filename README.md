@@ -90,6 +90,6 @@
 
 ## 📫 Contact Me
 - GitHub: [github.com/jamesnguyendev](https://github.com/jamesnguyendev)
-- Telegram: [t.me/@jamesnguyen1203](https://t.me/@jamesnguyen1203)
+- Telegram: [t.me/@jamesnguyen1203](https://t.me/jamesnguyen1203)
 - X: [x.com/James6012411004](https://x.com/James6012411004)  
 - Email: jamesnguyen.devs@gmail.com  
