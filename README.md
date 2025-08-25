@@ -24,11 +24,12 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=fff)
-![Shadcn/UI](https://img.shields.io/badge/-Shadcn%2FUI-000000?style=for-the-badge&logo=radixui&logoColor=fff)
-![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-FF4088?style=for-the-badge&logo=googlechrome&logoColor=fff)
+![Shadcn/UI](https://img.shields.io/badge/-Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
 ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-25D366?style=for-the-badge&logo=responsive&logoColor=fff)
 
 ---
 
@@ -36,6 +37,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=fff)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![REST API](https://img.shields.io/badge/-REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=fff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
 
@@ -70,7 +72,6 @@
 - JWT, OAuth2, bcrypt  
 - HTTPS, Authentication & Authorization  
 - OWASP Top 10 Awareness  
-
 ---
 
 ## 📂 Projects  
