@@ -92,8 +92,10 @@
 
 ---
 
-## 📫 Contact Me
-- GitHub: [github.com/jamesnguyendev](https://github.com/jamesnguyendev)
-- Telegram: [t.me/jamesnguyen1203](https://t.me/jamesnguyen1203)
-- X: [x.com/James6012411004](https://x.com/James6012411004)  
-- Email: jamesnguyen.devs@gmail.com  
+## 📫 Contact Me  
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/jamesnguyendev)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/jamesnguyen1203)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=fff)](https://x.com/James6012411004)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:jamesnguyen.devs@gmail.com)
+
