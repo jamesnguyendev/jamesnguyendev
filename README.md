@@ -14,38 +14,57 @@
 
 ## 🛠️ Tech Stack  
 
-### 🎨 Frontend
-- HTML, CSS, JavaScript, TypeScript  
-- React, Next.js (CSR, SSR, SSG, ISR)  
-- TailwindCSS, Shadcn/UI, Bootstrap, Framer Motion  
-- Responsive Design, Babel, Webpack  
-- Figma, Photoshop  
+### 🎨 Frontend  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=fff)
 
-### ⚙️ Backend
-- Node.js, Express.js, NestJS  
-- REST API, GraphQL  
-- Supabase (Auth, Database, Storage, Realtime)  
-- Authentication & Authorization (JWT, OAuth2, bcrypt, Token)  
+---
 
-### 🗄️ Database
-- MongoDB (NoSQL), PostgreSQL, MySQL  
-- Supabase (Postgres-based BaaS)  
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=fff)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
 
-### ☁️ DevOps & Deployment
-- AWS, Vercel, Docker, Nginx, VPS, Ubuntu  
-- CI/CD pipelines  
+---
 
-### 🧪 Testing & API Tools
-- Jest, Postman, Swagger  
+### 🗄️ Database  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
 
-### 🔐 Security
-- JWT, OAuth2, Hashing (bcrypt)  
-- HTTP/HTTPS, Authentication & Authorization  
+---
 
-### 📋 Project & Workflow
-- Git, GitHub, Trello, Notion  
+### ☁️ DevOps & Deployment  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=fff)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
 
+---
 
+### 🧪 Testing & Tools  
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000)
+
+---
+
+### 🔐 Security  
+- JWT, OAuth2, bcrypt  
+- HTTPS, Authentication & Authorization  
+- OWASP Top 10 Awareness  
 ---
 
 ## 📂 Projects  
