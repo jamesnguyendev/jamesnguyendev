@@ -24,6 +24,11 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=fff)
+![Shadcn/UI](https://img.shields.io/badge/-Shadcn%2FUI-000000?style=for-the-badge&logo=radixui&logoColor=fff)
+![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-FF4088?style=for-the-badge&logo=googlechrome&logoColor=fff)
+![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 
 ---
 
@@ -65,6 +70,7 @@
 - JWT, OAuth2, bcrypt  
 - HTTPS, Authentication & Authorization  
 - OWASP Top 10 Awareness  
+
 ---
 
 ## 📂 Projects  
