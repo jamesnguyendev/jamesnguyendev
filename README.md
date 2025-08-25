@@ -1,6 +1,6 @@
 # 👋 Hi, I'm James Nguyen  
 
-🚀 Fullstack Developer | 💻 Web Designer | 🌐 Cloud & DevOps Enthusiast  
+🚀 Fullstack Developer | 💻 Web Designer | 🌐 Web Developer
 
 ---
 
