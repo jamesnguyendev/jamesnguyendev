@@ -5,10 +5,10 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Fullstack developer with 1+ year of experience and 3–5 real-world projects.  
-- 🌱 Interested in **System Design, Scalability, Cloud Deployment**.  
-- 🎯 Focused on building **secure, reliable, and high-performance applications**.  
-- 💬 Ask me about: React, Next.js, Node.js, System Architecture.  
+- 🔭 Fullstack developer with 1+ year of experience.  
+- 🎯 Focused on building **secure, stable, and high-performance applications**.  
+- 🤝 Enjoys **learning, sharing knowledge**, and working in collaborative environments.  
+- 💡 Always seeks to combine **technical excellence** with **great user experience** to create quality products.  
 
 ---
 
@@ -91,4 +91,4 @@
 ## 📫 Contact Me
 - GitHub: [github.com/jamesnguyendev](https://github.com/jamesnguyendev)  
 - LinkedIn: [linkedin.com/in/jamesnguyendev](#)  
-- Email: jamesnguyendev@example.com  
+- Email: jamesnguyen.devs@gmail.com
