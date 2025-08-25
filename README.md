@@ -94,8 +94,6 @@
 
 ## 📫 Contact Me  
 
-## 📫 Contact Me  
-
 - 🐙 GitHub: [jamesnguyendev](https://github.com/jamesnguyendev)  
 - ✈️ Telegram: [jamesnguyen1203](https://t.me/jamesnguyen1203)  
 - 🐦 X (Twitter): [@James6012411004](https://x.com/James6012411004)  
