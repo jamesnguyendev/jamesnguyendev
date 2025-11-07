@@ -26,9 +26,6 @@
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=fff)
 ![Shadcn/UI](https://img.shields.io/badge/-Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=fff)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=000)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=000)
 ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-25D366?style=for-the-badge&logo=responsive&logoColor=fff)
 
 ---
@@ -36,10 +33,7 @@
 ### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=fff)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
 ![REST API](https://img.shields.io/badge/-REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=fff)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
 
 ---
 
@@ -67,8 +61,6 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=fff)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=fff)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fff)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
 
 ---
 
